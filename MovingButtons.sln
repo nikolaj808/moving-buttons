@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingButtons", "MovingButtons\MovingButtons.csproj", "{5AEA302B-9727-4B64-882F-751BE3F9FA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AEA302B-9727-4B64-882F-751BE3F9FA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEA302B-9727-4B64-882F-751BE3F9FA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEA302B-9727-4B64-882F-751BE3F9FA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEA302B-9727-4B64-882F-751BE3F9FA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1540FADD-8C5B-4F26-A2FF-0FA33D006A2E}
+	EndGlobalSection
+EndGlobal
